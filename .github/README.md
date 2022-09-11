@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://telegra.ph/file/72dd5ef97b1d341886561.jpg" alt="alpha" width="150">
+  <img src="https://te.legra.ph/file/8ed930ecf0bc4481385a4.jpg" alt="alpha" width="150">
 </p>
 
 ###  sᴛʀɪɴɢ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ 🥵
