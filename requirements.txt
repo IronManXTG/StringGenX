@@ -1,5 +1,4 @@
-python-dotenv==0.21.0
-SQLAlchemy==1.4.40
+
 psycopg2==2.9.3
 Telethon==1.25.0
 pyromod==1.5
